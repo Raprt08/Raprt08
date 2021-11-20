@@ -30,3 +30,6 @@ Here are some ideas to get you started:
 ![TS](https://img.shields.io/badge/TypeScript-0095D5?style=for-the-badge&logo=appveyor&query=<//data/subdata>&color=F2FD0A&labelColor=101010)</br>
 ![PHP](https://img.shields.io/badge/PHP-0095D5?style=for-the-badge&logo=appveyor&query=<//data/subdata>&color=7B878A&labelColor=101010)
 
+
+#### apariencia:
+https://img.shields.io/static/v1?label=info&message=mensajeimportado&color=red
