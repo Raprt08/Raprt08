@@ -32,4 +32,5 @@ Here are some ideas to get you started:
 
 
 #### apariencia:
-![dada](https://img.shields.io/static/v1?label=info-101010&message=mensajeimportado&color=red)
+![dada](https://img.shields.io/static/v1?label=info-101010&message=mensajeimportado&color=red&labelColor=101010)
+https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>
