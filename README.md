@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 #### SKILLS:
 
-![JS](https://img.shields.io/badge/JavaScrpt-0095D5?style=for-the-badge&logo=appveyor&query=<//data/subdata>&color=white&labelColor=101010)</br>
+![JS](https://img.shields.io/badge/JavaScrpt-FF5733?style=for-the-badge&logo=appveyor&query=<//data/subdata>&color=white&labelColor=101010)</br>
 ![CSS](https://img.shields.io/badge/CSS-0095D5?style=for-the-badge&logo=appveyor&query=<//data/subdata>&color=white&labelColor=101010)</br>
 ![JS](https://img.shields.io/badge/JavaScrpt-0095D5?style=for-the-badge&logo=appveyor&query=<//data/subdata>&color=white&labelColor=101010)</br>
 ![JS](https://img.shields.io/badge/JavaScrpt-0095D5?style=for-the-badge&logo=appveyor&query=<//data/subdata>&color=white&labelColor=101010)
