@@ -14,12 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#### Contact me:
-
-  Quedo a sus ordenes, amante de las técnologia y apasionado de la programación
-
-- [Gmail](https://gmail.com.mx)
-- [Sport demas](https://google.com.mx)
 
 #### SKILLS:
 
@@ -32,6 +26,12 @@ Here are some ideas to get you started:
 ![PHP](https://img.shields.io/badge/PHP-0095D5?style=for-the-badge&logo=PHP&logoColor=white&color=777BB4&labelColor=101010)</br>
 ![MySQL](https://img.shields.io/badge/MySQL-0095D5?style=for-the-badge&logo=MySQL&logoColor=white&color=4479A1&labelColor=101010)
 
+#### Contact me:
+
+  Quedo a sus ordenes, amante de las técnologia y apasionado de la programación
+
+- [Gmail](https://gmail.com.mx)
+- [Sport demas](https://google.com.mx)
 
 #### apariencia:
 ![dada](https://img.shields.io/static/v1?label=info-101010&message=mensajeimportado&color=red&labelColor=f2fd0a)
