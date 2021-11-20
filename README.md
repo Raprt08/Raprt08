@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ![JS](https://img.shields.io/badge/JavaScrpt-0095D5?style=for-the-badge&logo=appveyor&query=<//data/subdata>&color=CDF322&labelColor=101010)</br>
 ![CSS](https://img.shields.io/badge/CSS-0095D5?style=for-the-badge&logo=appveyor&query=<//data/subdata>&color=25E4F1&labelColor=101010)</br>
 ![nodeJS](https://img.shields.io/badge/NodeJS-0095D5?style=for-the-badge&logo=appveyor&query=<//data/subdata>&color=47DC26&labelColor=101010)</br>
-![Angular](https://img.shields.io/badge/Angular-0095D5?style=for-the-badge&logo=appveyor&query=<//data/subdata>&color=F1AA25&labelColor=101010)
+![Angular](https://img.shields.io/badge/Angular-0095D5?style=for-the-badge&logo=appveyor&query=<//data/subdata>&color=F1AA25&labelColor=101010)</br>
 ![TS](https://img.shields.io/badge/TypeScript-0095D5?style=for-the-badge&logo=appveyor&query=<//data/subdata>&color=F2FD0A&labelColor=101010)</br>
 ![PHP](https://img.shields.io/badge/PHP-0095D5?style=for-the-badge&logo=appveyor&query=<//data/subdata>&color=7B878A&labelColor=101010)
 
